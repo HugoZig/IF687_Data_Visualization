@@ -1,4 +1,4 @@
-# IF687_Data_Visualization
+# IF687 Data Visualization
 # Simple Data Analysis with Matplotlib
 
 A simple exploratory data analysis of the Titanic dataset using Python.
